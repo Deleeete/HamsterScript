@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "hamster": {
+      "commandName": "Project",
+      "commandLineArgs": "test.sjy"
+    }
+  }
+}
